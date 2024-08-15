@@ -11,6 +11,9 @@ An app designed to display the current weather details for any selected city.
 #### Link
 https://react-weather-app-2024.web.app/
 
+#### GitHub Repository
+https://github.com/binokochumolvarghese/react-weather-app
+
 #### Screenshot
 ![Job Dashboard Summary Screenshot](https://github.com/binokochumolvarghese/react-weather-app/blob/main/public/weather-app-ss.png)
 
@@ -23,6 +26,9 @@ A Note app that allows users to create, edit, and efficiently manage their notes
 #### Link
 https://react-note-app-4a475.web.app/
 
+#### GitHub Repository
+https://github.com/binokochumolvarghese/react-note-app
+
 #### Screenshot
 ![Note App Screenshot](https://github.com/binokochumolvarghese/react-note-app/blob/main/public/note-app-ss.png)
 
@@ -34,6 +40,8 @@ A dashboard application that provides real-time job summaries for employees, aut
 #### Link
 https://react-job-dashboard.web.app/
 
+#### GitHub Repository
+https://react-job-dashboard.web.app/
 
 #### Screenshot
 ![Job Dashboard Summary Screenshot](https://github.com/binokochumolvarghese/job-dashboard-react-app/blob/main/public/job-summary-dashboard-ss.png)
