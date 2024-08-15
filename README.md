@@ -41,7 +41,7 @@ A dashboard application that provides real-time job summaries for employees, aut
 https://react-job-dashboard.web.app/
 
 #### GitHub Repository
-https://react-job-dashboard.web.app/
+[https://react-job-dashboard.web.app/](https://github.com/binokochumolvarghese/job-dashboard-react-app)
 
 #### Screenshot
 ![Job Dashboard Summary Screenshot](https://github.com/binokochumolvarghese/job-dashboard-react-app/blob/main/public/job-summary-dashboard-ss.png)
