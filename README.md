@@ -15,7 +15,7 @@ https://react-weather-app-2024.web.app/
 https://github.com/binokochumolvarghese/react-weather-app
 
 #### Screenshot
-![Job Dashboard Summary Screenshot](https://github.com/binokochumolvarghese/react-weather-app/blob/main/public/weather-app-ss.png)
+![Weather App Screenshot](https://github.com/binokochumolvarghese/react-weather-app/blob/main/public/weather-app-ss.png)
 
 
 
