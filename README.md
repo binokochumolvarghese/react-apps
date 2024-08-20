@@ -54,5 +54,8 @@ An application that fetches photos from the Unsplash API, allowing users to brow
 #### Link
 https://bi-photo-app.netlify.app/
 
+#### GitHub Repository
+https://github.com/binokochumolvarghese/react-photos-app
+
 #### Screenshot
 ![Photo App Screenshot](https://github.com/binokochumolvarghese/react-photos-app/blob/main/public/photo-app-ss.png)
